@@ -1,0 +1,6 @@
+C:\Users\natha\source\repos\ACMEAccounting\ACMEAccounting\bin\Debug\ACMEAccounting.exe.config
+C:\Users\natha\source\repos\ACMEAccounting\ACMEAccounting\bin\Debug\ACMEAccounting.exe
+C:\Users\natha\source\repos\ACMEAccounting\ACMEAccounting\bin\Debug\ACMEAccounting.pdb
+C:\Users\natha\source\repos\ACMEAccounting\ACMEAccounting\obj\Debug\ACMEAccounting.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\ACMEAccounting\ACMEAccounting\obj\Debug\ACMEAccounting.exe
+C:\Users\natha\source\repos\ACMEAccounting\ACMEAccounting\obj\Debug\ACMEAccounting.pdb
