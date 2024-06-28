@@ -1,0 +1,7 @@
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.exe.config
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.exe
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.pdb
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.exe
+C:\Users\natha\source\repos\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.pdb
