@@ -1,0 +1,7 @@
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\bin\Debug\LoopSubmissionAssignment.exe.config
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\bin\Debug\LoopSubmissionAssignment.exe
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\bin\Debug\LoopSubmissionAssignment.pdb
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\obj\Debug\LoopSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\obj\Debug\LoopSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\obj\Debug\LoopSubmissionAssignment.exe
+C:\Users\natha\source\repos\LoopSubmissionAssignment\LoopSubmissionAssignment\obj\Debug\LoopSubmissionAssignment.pdb
