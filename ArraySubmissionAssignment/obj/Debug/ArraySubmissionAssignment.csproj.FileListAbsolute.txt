@@ -1,0 +1,7 @@
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\bin\Debug\ArraySubmissionAssignment.exe.config
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\bin\Debug\ArraySubmissionAssignment.exe
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\bin\Debug\ArraySubmissionAssignment.pdb
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.exe
+C:\Users\natha\source\repos\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.pdb
