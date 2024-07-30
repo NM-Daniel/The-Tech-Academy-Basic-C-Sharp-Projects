@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.pdb
