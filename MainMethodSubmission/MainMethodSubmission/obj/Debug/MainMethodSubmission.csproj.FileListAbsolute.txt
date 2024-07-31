@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.pdb
