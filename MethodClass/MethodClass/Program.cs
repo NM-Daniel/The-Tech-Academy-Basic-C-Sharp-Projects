@@ -17,12 +17,8 @@ namespace MethodClass
             voidMethod.MyMethod(1000, 500);
             Console.ReadLine();
 
-            //Different int's are created and assigned to variables
-            int num1 = 300;
-            int num2 = 450;
-
-            //MyMethod is given two int's but it is passed in as a variable name.
-            voidMethod.MyMethod(num1, num2);
+            //The parameters are passed in out of order but specified by their name
+            voidMethod.MyMethod(num2: 450, num1: 300);
             Console.ReadLine();
 
         }
