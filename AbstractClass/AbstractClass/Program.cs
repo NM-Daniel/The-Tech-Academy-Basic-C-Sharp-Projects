@@ -18,6 +18,10 @@ namespace AbstractClass
             //the Method SayName from the employee class is called
             employee.SayName();
 
+            //Using polymorphism to instantiate an object of type IQuittable using Employee()
+            IQuittable employeeQuits = new Employee() { firstName = "Joe", lastName = "Shmo" };
+            employeeQuits.Quit();
+
             Console.ReadLine();
         }
     }
