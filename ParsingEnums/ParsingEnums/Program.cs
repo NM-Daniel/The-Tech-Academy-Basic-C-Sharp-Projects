@@ -13,21 +13,19 @@ namespace ParsingEnums
             Console.WriteLine("Please enter the current day of the week.");
             string userInput = Console.ReadLine();
 
-            //try/catch block to convert the string input to enum type, if it does not match an enumeral the ArgumentException is handled.
+            //try/catch block that creates a new variable called theDay of daysOfWeek type and attempts to give it the value entered from the user.
+            //adding true ignores the users casing
             try
             {
-                Enum.Parse(typeof(daysOfWeek), userInput);
-                Console.WriteLine("It is " + userInput);
+                daysOfWeek theDay = (daysOfWeek)Enum.Parse(typeof(daysOfWeek), userInput, true);
+                Console.WriteLine("It is " + theDay);
             }
+            //If the user enteres sometimes that is not an enum value this catches the exception
             catch (ArgumentException)
             {
                 Console.WriteLine("Please Enter an actual day of the week.");
             }
-
-
             Console.ReadLine();
-
-
 
         }
         //Creates daysOfWeek enum
