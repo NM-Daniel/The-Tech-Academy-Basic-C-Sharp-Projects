@@ -20,7 +20,7 @@ namespace ParsingEnums
                 daysOfWeek theDay = (daysOfWeek)Enum.Parse(typeof(daysOfWeek), userInput, true);
                 Console.WriteLine("It is " + theDay);
             }
-            //If the user enteres sometimes that is not an enum value this catches the exception
+            //If the user enters something that is not an enum value this catches the exception
             catch (ArgumentException)
             {
                 Console.WriteLine("Please Enter an actual day of the week.");
