@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.csproj.AssemblyReference.cache
