@@ -1,0 +1,6 @@
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino2\bin\Debug\Casino2.dll
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino2\bin\Debug\Casino2.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino2\obj\Debug\Casino2.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino2\obj\Debug\Casino2.dll
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino2\obj\Debug\Casino2.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino2\obj\Debug\Casino2.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\TwentyOne.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\TwentyOne.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\TwentyOne.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\Casino.dll
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\Casino.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino2.dll
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino2.pdb
