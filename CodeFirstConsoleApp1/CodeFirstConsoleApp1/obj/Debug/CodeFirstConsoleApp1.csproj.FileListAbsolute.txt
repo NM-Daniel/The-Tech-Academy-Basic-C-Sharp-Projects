@@ -1,0 +1,12 @@
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\CodeFirstConsoleApp1.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\CodeFirstConsoleApp1.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\CodeFirstConsoleApp1.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\obj\Debug\CodeFirstConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\obj\Debug\CodeFirstConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\obj\Debug\CodeFirs.FCA845B2.Up2Date
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\obj\Debug\CodeFirstConsoleApp1.exe
+C:\Users\natha\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstConsoleApp1\CodeFirstConsoleApp1\obj\Debug\CodeFirstConsoleApp1.pdb
